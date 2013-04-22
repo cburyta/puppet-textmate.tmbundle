@@ -1,7 +1,7 @@
 ============= Puppet TextMate Bundle ==============
 
 This is a TextMate (http://www.macromates.com/) bundle for 
-Puppet (http://www.reductivelabs.com/) manifests.
+Puppet (http://puppetlabs.com) manifests. It also works fine in Sublime Text 2.
 
 To install, clone this repository and drag the Puppet.tmbundle directory
 on the TextMate icon. The installation will then be automatic.
